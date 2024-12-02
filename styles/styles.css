@@ -67,6 +67,9 @@ header nav a:hover::after {
     opacity: 1;
 }
 
+/*header nav a:hover{
+
+}*/
 
 header .search-bar {
     flex: 1;
@@ -204,12 +207,14 @@ footer {
 }
 
 img {
-    transition: border  0.3s ease;
+  transition: border 0.3s ease;
+  /*sdb 0.3*/
 }
   
 img:hover {
-    outline: 10px dotted #000000; /* outline */
-
+    border: 10px dotted #000000; 
+    /*outline */
+    /*sdb0 10 20*/
 }
 
 .login {
@@ -291,7 +296,7 @@ img:hover {
   padding: 20px;
   background: #fff;
   border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px black;
 }
 .signup__container h1 {
   margin-bottom: 20px;
