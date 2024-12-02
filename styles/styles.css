@@ -208,7 +208,7 @@ img {
 }
   
 img:hover {
-    outline: 1px dotted #000000; /* outline */
+    outline: 10px dotted #000000; /* outline */
 
 }
 
