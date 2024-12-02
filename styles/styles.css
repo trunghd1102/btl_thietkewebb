@@ -187,6 +187,7 @@ header .search-bar input {
     width: auto;
     height: auto;
     padding-top: 10px;
+    /*border:2px solid*/
 }
 
 .product-item .price {
@@ -213,7 +214,8 @@ img {
   
 img:hover {
     border: 10px dotted #000000; 
-    /*outline */
+    /*dashed
+    /*outline
     /*sdb0 10 20*/
 }
 
