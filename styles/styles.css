@@ -213,7 +213,7 @@ img {
 }
   
 img:hover {
-    border: 10px dotted #000000; 
+    border: 1px dotted #000000; 
     /*dashed
     /*outline
     /*sdb0 10 20*/
